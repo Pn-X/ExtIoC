@@ -1,0 +1,16 @@
+PODS:
+  - ExtIoC (0.0.1)
+
+DEPENDENCIES:
+  - ExtIoC (from `../`)
+
+EXTERNAL SOURCES:
+  ExtIoC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtIoC: b3c1f766d20cfa5c2ac0fb7adcb9eb3ac4f397b4
+
+PODFILE CHECKSUM: 06e33da40756849963d5ebd7b05dd1cbdd7c4f06
+
+COCOAPODS: 1.9.3
